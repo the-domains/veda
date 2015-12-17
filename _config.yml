@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5773362
+  brandStrength: 1
+  lightness: 0.6997852
+  brandColors:
+    - '#1E171E'
+    - '#FFF8FF'
+    - '#925343'
+    - '#E9886D'
+    - '#43404C'
+  rhythmicContrast: 1
+typography_spectrum: 0.3163265
+name: Veda
